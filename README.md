@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nomspot
-- 👀 I’m interested in game development and stuff
-- 🌱 I’m currently learning c# python and other usfull languages
-- 💞️ I’m looking to collaborate on games
+- 🌱 I’m currently work with c# , python , and other usfull languages
+- 💞️ I work on video games and other inovating coding experiences
 - 📫 How to reach me - discord - Nomspot#2030
