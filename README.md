@@ -50,8 +50,19 @@ Developed an internal automation tool that processes Excel-based input and retri
 
 **Impact:**
 - Significantly reduced repetitive manual work  
-- Improved processing speed and consistency  
+- Improved processing speed and consistency
 
+- **Example Automation Input and output :**
+
+**Input :**
+<p align="center">
+  <img src="excel%20input.jpeg" width="1000"/>
+</p>
+
+  **Output :**
+<p align="center">
+  <img src="excel%20output.jpeg" width="1000"/>
+</p>
 ---
 
 ### Legacy System Data Extractor (Private System Integration)
